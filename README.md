@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Manish Dhatrak 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/profile-banner.png" alt="Profile Banner" width="600" />
+  <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="600" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 <h3 align="center">Project 1: <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">AI-Based Fire Alarm System</a></h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/fire-alarm-system.gif" alt="AI-Based Fire Alarm System" width="600" />
+  <img src="https://github.com/astromanu007/AI-Based-Fire-Alarm-System/blob/main/demo.gif" alt="AI-Based Fire Alarm System" width="600" />
 </p>
 <p align="center">
   Description: A machine learning project using computer vision to detect fire using a camera module without sensors.
@@ -61,7 +61,7 @@
 
 <h3 align="center">Project 2: <a href="https://github.com/astromanu007/PCB_Anomaly_Detection">PCB Anomaly Detection</a></h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/pcb-anomaly-detection.gif" alt="PCB Anomaly Detection" width="600" />
+  <img src="https://github.com/astromanu007/PCB_Anomaly_Detection/blob/main/demo.gif" alt="PCB Anomaly Detection" width="600" />
 </p>
 <p align="center">
   Description: A system using infrared images to detect faults in PCB components by identifying overheated areas.
@@ -77,7 +77,7 @@
 
 <h3 align="center">Project 3: <a href="https://github.com/astromanu007/Leaf-Disease-Detection">Leaf Disease Detection</a></h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/leaf-disease-detection.gif" alt="Leaf Disease Detection" width="600" />
+  <img src="https://github.com/astromanu007/Leaf-Disease-Detection/blob/main/demo.gif" alt="Leaf Disease Detection" width="600" />
 </p>
 <p align="center">
   Description: A machine learning project to detect diseases in leaves to assist farmers in early identification and treatment.
@@ -109,5 +109,5 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/animated-banner.gif" alt="Animated Banner" width="600" />
+  <img src="https://github.com/astromanu007/profile-images/blob/main/animated-banner.gif" alt="Animated Banner" width="600" />
 </p>
