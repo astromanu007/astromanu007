@@ -1,21 +1,28 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Manish Dhatrak 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-username/profile-banner.png" alt="Profile Banner" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astromanu007&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h2 align="center">About Me</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/astromanu007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -36,34 +43,50 @@
 
 <h2 align="center">Projects</h2>
 
-<h3 align="center">Project 1: [Project Name]</h3>
+<h3 align="center">Project 1: <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">AI-Based Fire Alarm System</a></h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/project1-image.png" alt="Project Image" width="600" />
+  <img src="https://user-images.githubusercontent.com/your-username/fire-alarm-system.png" alt="AI-Based Fire Alarm System" width="600" />
 </p>
 <p align="center">
-  Description: A brief description of the project.
+  Description: A machine learning project using computer vision to detect fire using a camera module without sensors.
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/project1-repo">
+  <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
   </a>
-  <a href="https://project1-demo-link.com">
+  <a href="https://ai-based-fire-alarm-system-demo-link.com">
     <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
-<h3 align="center">Project 2: [Project Name]</h3>
+<h3 align="center">Project 2: <a href="https://github.com/astromanu007/PCB_Anomaly_Detection">PCB Anomaly Detection</a></h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/project2-image.png" alt="Project Image" width="600" />
+  <img src="https://user-images.githubusercontent.com/your-username/pcb-anomaly-detection.png" alt="PCB Anomaly Detection" width="600" />
 </p>
 <p align="center">
-  Description: A brief description of the project.
+  Description: A system using infrared images to detect faults in PCB components by identifying overheated areas.
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/project2-repo">
+  <a href="https://github.com/astromanu007/PCB_Anomaly_Detection">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
   </a>
-  <a href="https://project2-demo-link.com">
+  <a href="https://pcb-anomaly-detection-demo-link.com">
+    <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<h3 align="center">Project 3: <a href="https://github.com/astromanu007/Leaf-Disease-Detection">Leaf Disease Detection</a></h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/leaf-disease-detection.png" alt="Leaf Disease Detection" width="600" />
+</p>
+<p align="center">
+  Description: A machine learning project to detect diseases in leaves to assist farmers in early identification and treatment.
+</p>
+<p align="center">
+  <a href="https://github.com/astromanu007/Leaf-Disease-Detection">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
+  </a>
+  <a href="https://leaf-disease-detection-demo-link.com">
     <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
   </a>
 </p>
@@ -72,7 +95,19 @@
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  <a href="mailto:manishdhatrak1121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/astromanu007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/animated-banner.gif" alt="Animated Banner" width="600" />
 </p>
