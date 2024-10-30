@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" style="transform: translateY(0); transition: transform 0.3s; &:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.2); }"/>
   
   <p style="animation: pulse 2s infinite;"><b>3. Contribution Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&cache_seconds=1800&currStreakNum=21" alt="GitHub Streak" style="transform: translateY(0); transition: transform 0.3s; &:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.2); }"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&cache_seconds=1800&currStreakNum= 21" alt="GitHub Streak" style="transform: translateY(0); transition: transform 0.3s; &:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.2); }"/>
 </div>
 
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.75), transparent); animation: shimmer 2s infinite;">
