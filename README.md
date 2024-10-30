@@ -51,7 +51,7 @@
   <img src="https://github.com/astromanu007/AI-Based-Fire-Alarm-System/blob/main/demo.gif" alt="AI-Based Fire Alarm System" width="600" />
 </p>
 <p align="center">
-  Description: A machine learning project using computer vision to detect fire using a camera module without sensors.
+  Description: The project Object detection is for autonomous vehicles with advanced functionalities.
 </p>
 <p align="center">
   <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">
@@ -83,7 +83,7 @@
   <img src="https://github.com/astromanu007/Leaf-Disease-Detection/blob/main/demo.gif" alt="Leaf Disease Detection" width="600" />
 </p>
 <p align="center">
-  Description: A machine learning project to detect diseases in leaves to assist farmers in early identification and treatment.
+  Description: A machine learning project to detect leaf diseases to assist farmers in early identification and treatment.
 </p>
 <p align="center">
   <a href="https://github.com/astromanu007/Leaf-Disease-Detection">
