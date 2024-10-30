@@ -21,11 +21,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" /></p>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=radical" alt="Top Languages" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" /></p>
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=radical" alt="GitHub Streak" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=radical&cache_seconds=1800" alt="GitHub Streak" /></p>
 </p>
 
 ---
@@ -48,23 +48,23 @@
 
 <h3 align="center">Project 1: <a href="https://github.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-">AI-Driven-Object-Detection-for-Autonomous-Cars</a></h3>
 <p align="center">
-  <img src="https://github.com/astromanu007/AI-Based-Fire-Alarm-System/blob/main/demo.gif" alt="AI-Based Fire Alarm System" width="600" />
+  <img src="https://raw.githubusercontent.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-/main/demo.gif" alt="AI Object Detection Demo" width="600" />
 </p>
 <p align="center">
   Description: The project Object detection is for autonomous vehicles with advanced functionalities.
 </p>
 <p align="center">
-  <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">
+  <a href="https://github.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
   </a>
-  <a href="https://ai-based-fire-alarm-system-demo-link.com">
+  <a href="https://ai-object-detection-demo.com">
     <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
 <h3 align="center">Project 2: <a href="https://github.com/astromanu007/PCB_Anomaly_Detection">PCB Anomaly Detection</a></h3>
 <p align="center">
-  <img src="https://github.com/astromanu007/PCB_Anomaly_Detection/blob/main/demo.gif" alt="PCB Anomaly Detection" width="600" />
+  <img src="https://raw.githubusercontent.com/astromanu007/PCB_Anomaly_Detection/main/pcb_demo.gif" alt="PCB Anomaly Detection" width="600" />
 </p>
 <p align="center">
   Description: A system using infrared images to detect faults in PCB components by identifying overheated areas.
@@ -73,14 +73,14 @@
   <a href="https://github.com/astromanu007/PCB_Anomaly_Detection">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
   </a>
-  <a href="https://pcb-anomaly-detection-demo-link.com">
+  <a href="https://pcb-anomaly-detection-demo.com">
     <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
 <h3 align="center">Project 3: <a href="https://github.com/astromanu007/Leaf-Disease-Detection">Leaf Disease Detection</a></h3>
 <p align="center">
-  <img src="https://github.com/astromanu007/Leaf-Disease-Detection/blob/main/demo.gif" alt="Leaf Disease Detection" width="600" />
+  <img src="https://raw.githubusercontent.com/astromanu007/Leaf-Disease-Detection/main/leaf_disease_demo.gif" alt="Leaf Disease Detection" width="600" />
 </p>
 <p align="center">
   Description: A machine learning project to detect leaf diseases to assist farmers in early identification and treatment.
@@ -89,7 +89,7 @@
   <a href="https://github.com/astromanu007/Leaf-Disease-Detection">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
   </a>
-  <a href="https://leaf-disease-detection-demo-link.com">
+  <a href="https://leaf-disease-detection-demo.com">
     <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
   </a>
 </p>
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/astromanu007/profile-images/blob/main/animated-banner.gif" alt="Animated Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/astromanu007/profile-images/main/animated-banner.gif" alt="Animated Banner" width="600" />
 </p>
