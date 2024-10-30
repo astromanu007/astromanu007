@@ -46,7 +46,7 @@
 
 <h2 align="center">Projects</h2>
 
-<h3 align="center">Project 1: <a href="https://github.com/astromanu007/AI-Based-Fire-Alarm-System">AI-Based Fire Alarm System</a></h3>
+<h3 align="center">Project 1: <a href="https://github.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-">AI-Driven-Object-Detection-for-Autonomous-Cars</a></h3>
 <p align="center">
   <img src="https://github.com/astromanu007/AI-Based-Fire-Alarm-System/blob/main/demo.gif" alt="AI-Based Fire Alarm System" width="600" />
 </p>
