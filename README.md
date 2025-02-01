@@ -2,6 +2,12 @@
 <h1 align="center" style="animation: fadeIn 1s ease-in;">👋 Hello World! I'm Manish Dhatrak</h1>
 <h3 align="center" style="animation: slideIn 1.2s ease-out;">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
 
+<!-- Background Quote Section with Animations -->
+<div align="center" style="background: url('https://source.unsplash.com/random/800x400/?tech,innovation') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); animation: fadeIn 2s ease-in-out;">
+  <h2 style="color: white; font-size: 24px; font-style: italic; animation: slideInUp 2s;">"The best way to predict the future is to invent it." – Alan Kay</h2>
+  <p style="color: white; font-size: 18px; margin-top: 10px; animation: slideIn 2.5s;">Innovation is the key to success, and I strive to innovate every day.</p>
+</div>
+
 <p align="center">
   <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="100%" max-width="800px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: pulse 2s infinite;" />
 </p>
@@ -11,20 +17,26 @@
   <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" style="transition: transform 0.3s; &:hover { transform: translateY(-5px); }"/>
 </div>
 
-<h2 align="center" style="animation: glow 2s infinite;">🚀 About Me</h2>
+<!-- Interactive Chart or Stats Visualization -->
+<h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">📊 My Skills in Numbers</h2>
+
+<div align="center" style="animation: fadeInUp 2s;">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','React','Node.js'],datasets:[{data:[40,20,15,15,10],backgroundColor:['#3776AB','#00599C','#F7DF1E','#20232A','#339933'],hoverBackgroundColor:['#56A0D3','#006C8D','#F4D03F','#61DAFB','#4CAF50']}]},options:{plugins:{tooltip:{callbacks:{label:function(t){return t.label+': '+t.raw+'%';}}}}}}"
+    alt="Skills Pie Chart" width="500" height="300" />
+</div>
+
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.75), transparent); animation: shimmer 2s infinite;">
+
+<h2 align="center" style="animation: slideInLeft 1.5s;">🚀 About Me</h2>
 <p align="center" style="animation: fadeIn 2s ease-in;">
   I'm a tech enthusiast with a passion for building innovative solutions. Currently exploring the realms of AI, IoT, and Web Development.
 </p>
 
-<!-- Links Section -->
-<p align="center" style="animation: bounceIn 1.5s;">
-  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: all 0.3s; &:hover { transform: scale(1.1) rotate(5deg); box-shadow: 0 0 15px rgba(0,119,181,0.6); }" />
-  </a>
-  <a href="https://github.com/astromanu007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transition: all 0.3s; &:hover { transform: scale(1.1) rotate(-5deg); box-shadow: 0 0 15px rgba(24,23,23,0.6); }" />
-  </a>
-</p>
+<!-- Dynamic Quote Generator (use GitHub API or another API) -->
+<h2 align="center" style="animation: slideInRight 1.5s;">💡 Daily Motivation</h2>
+<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;">
+  <h3>"Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer</h3>
+</div>
 
 <!-- GitHub Stats Section -->
 <h2 align="center" style="animation: slideInLeft 1.5s;">📊 GitHub Statistics</h2>
