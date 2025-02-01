@@ -16,14 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=for-the-badge&base=20000" alt="Profile Views" style="transition: transform 0.3s; &:hover { transform: translateY(-5px); }" />
   <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" style="transition: transform 0.3s; &:hover { transform: translateY(-5px); }"/>
 </div>
-
-<!-- Interactive Chart or Stats Visualization -->
 <h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">📊 My Skills in Numbers</h2>
 
 <div align="center" style="animation: fadeInUp 2s;">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','React','Node.js'],datasets:[{data:[40,20,15,15,10],backgroundColor:['#3776AB','#00599C','#F7DF1E','#20232A','#339933'],hoverBackgroundColor:['#56A0D3','#006C8D','#F4D03F','#61DAFB','#4CAF50']}]},options:{plugins:{tooltip:{callbacks:{label:function(t){return t.label+': '+t.raw+'%';}}}}}}"
+  <!-- Skills Pie Chart -->
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','React','Node.js'],datasets:[{data:[40,20,15,15,10],backgroundColor:['#3776AB','#00599C','#F7DF1E','#20232A','#339933'],hoverBackgroundColor:['#56A0D3','#006C8D','#F4D03F','#61DAFB','#4CAF50']}]},options:{plugins:{tooltip:{callbacks:{label:function(t){return t.label+': '+t.raw+'%';}}}}}}" 
     alt="Skills Pie Chart" width="500" height="300" />
 </div>
+
 
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.75), transparent); animation: shimmer 2s infinite;">
 
