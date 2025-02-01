@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" />
   
   <p><b>3. Contribution Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&cache_seconds=1800&currStreakNum=21" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&cache_seconds=1800&currStreakNum=51" alt="GitHub Streak" />
 </div>
 
 <!-- Tech Stack Section -->
