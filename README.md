@@ -10,7 +10,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/astromanu007/profile-images/main/banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFj2SqVsQKszg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351640532?e=1745452800&v=beta&t=QQzZ3lxKsBdYz6zsTt18ZbcqQw1_pjgbHhENAxo4Xqs" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;" />
 </p>
 
 <!-- Background Quote Section with Animations -->
