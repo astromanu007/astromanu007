@@ -8,6 +8,10 @@
 <p align="center" style="animation: fadeIn 2s;">
   <a href="https://manishportfolio-green.vercel.app/" target="_blank" style="font-size: 18px; font-weight: bold; padding: 12px 24px; background: linear-gradient(45deg, #ff416c, #ff4b2b); color: white; border-radius: 10px; text-decoration: none; transition: transform 0.3s ease-in-out;">🚀 Visit My Portfolio</a>
 </p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/astromanu007/profile-images/main/banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;" />
+</p>
 
 <!-- Background Quote Section with Animations -->
 <div align="center" style="background: url('https://source.unsplash.com/random/800x400/?tech,innovation') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); animation: fadeIn 2s ease-in-out;">
