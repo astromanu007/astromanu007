@@ -1,12 +1,7 @@
 <!-- Header -->
 <h1 align="center" style="animation: fadeIn 1s ease-in;">👋 Hello World! I'm Manish Dhatrak</h1>
-<h3 align="center" style="animation: slideIn 1.2s ease-out;">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center" style="animation: slideIn 1.2s ease-out;">Passionate Developer | AI & ML Enthusiast | Tech Innovator</h3>
 
-<!-- Background Quote Section with Animations -->
-<div align="center" style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 40px 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); animation: fadeIn 2s ease-in-out; max-width: 800px; margin: auto;">
-  <h2 style="color: white; font-size: 24px; font-style: italic; animation: slideInUp 2s;">"The best way to predict the future is to invent it." – Alan Kay</h2>
- 
-</div>
 
 <!-- Animated Portfolio Link -->
 <h2 align="center" style="animation: pulse 1.5s infinite alternate;">🌐 My Portfolio</h2>
@@ -14,53 +9,54 @@
   <a href="https://manishportfolio-green.vercel.app/" target="_blank" style="font-size: 18px; font-weight: bold; padding: 12px 24px; background: linear-gradient(45deg, #ff416c, #ff4b2b); color: white; border-radius: 10px; text-decoration: none; transition: transform 0.3s ease-in-out;">🚀 Visit My Portfolio</a>
 </p>
 
-<!-- Animated Profile Banner -->
-<p align="center">
-  <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeInUp 2s;" />
-</p>
+<!-- Background Quote Section with Animations -->
+<div align="center" style="background: url('https://source.unsplash.com/random/800x400/?tech,innovation') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); animation: fadeIn 2s ease-in-out;">
+  <h2 style="color: white; font-size: 24px; font-style: italic; animation: slideInUp 2s;">"The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt</h2>
+  <p style="color: white; font-size: 18px; margin-top: 10px; animation: slideIn 2.5s;">Tech is limitless, and so is my passion for innovation.</p>
+</div>
 
-<!-- Tools & Technologies with Hover Effects -->
-<h2 align="center" style="animation: slideInRight 1.5s;">🛠️ Tools & Technologies</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,arduino,docker,kubernetes,aws" alt="Tech Stack" style="transition: transform 0.3s ease-in-out; &:hover { transform: scale(1.1); }" />
-</p>
+<!-- Profile Views & Collaboration -->
+<div align="center" style="animation: fadeInUp 1.5s ease-out;">
+  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=for-the-badge&base=20000" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" />
+</div>
 
-<!-- What I'm Learning with Animations -->
-<h2 align="center" style="animation: swing 2s infinite alternate;">🌱 What I’m Learning</h2>
-<ul style="max-width: 800px; margin: auto; text-align: left;">
-  <li style="animation: bounceInLeft 1.5s;">📚 Exploring Quantum Computing and its applications in AI.</li>
-  <li style="animation: bounceInLeft 1.7s;">🌍 Learning Blockchain development for Web3 projects.</li>
-  <li style="animation: bounceInLeft 1.9s;">🤖 Enhancing skills in Reinforcement Learning & AI Ethics.</li>
-</ul>
+<!-- Tech Stack -->
+<h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">🛠️ Tech Stack</h2>
+<div align="center" style="animation: fadeInUp 2s;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-<!-- GitHub Trophies -->
-<h2 align="center" style="animation: tada 1.5s infinite alternate;">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=tokyonight&column=7" alt="GitHub Trophies" />
-</p>
+<!-- GitHub Stats -->
+<h2 align="center" style="animation: slideInLeft 1.5s;">📊 GitHub Statistics</h2>
+<div align="center" style="animation: fadeInUp 2s;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" />
+</div>
 
-<!-- GitHub Heatmap / Contribution Graph -->
-<h2 align="center" style="animation: fadeIn 1.5s;">📍 GitHub Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astromanu007&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Profile Views with Glow Effect -->
-<h2 align="center" style="animation: flash 1.5s infinite alternate;">👀 Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=ff416c&style=for-the-badge" alt="Profile Views" style="animation: pulse 2s infinite;" />
-</p>
-
-<!-- Contact Section with Hover Effects -->
+<!-- Contact -->
 <h2 align="center" style="animation: slideInRight 1.5s;">📫 Let's Connect!</h2>
-<p align="center" style="animation: bounceIn 2s;">
-  <a href="mailto:manishdhatrak1121@gmail.com" style="transition: transform 0.3s; &:hover { transform: scale(1.1); }">
+<p align="center">
+  <a href="mailto:manishdhatrak1121@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa" style="transition: transform 0.3s; &:hover { transform: scale(1.1); }">
+  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/astromanu007" style="transition: transform 0.3s; &:hover { transform: scale(1.1); }">
+  <a href="https://github.com/astromanu007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
