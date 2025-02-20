@@ -19,6 +19,14 @@
   <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeInUp 2s;" />
 </p>
 
+<!-- GitHub Stats and Contributions -->
+<h2 align="center" style="animation: slideInLeft 1.5s;">📊 GitHub Statistics</h2>
+<div align="center" style="animation: fadeInUp 2s;">
+  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight" alt="GitHub Streak" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astromanu007&theme=tokyonight" alt="Languages" width="50%" />
+</div>
+
 <!-- Additional Elements -->
 <h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">💡 Fun Facts About Me</h2>
 <ul style="max-width: 800px; margin: auto; text-align: left;">
@@ -27,6 +35,12 @@
   <li style="animation: slideInLeft 1.9s;">🚀 My goal is to build scalable and impactful AI solutions.</li>
   <li style="animation: slideInLeft 2.1s;">📖 I enjoy reading books on technology and innovation.</li>
 </ul>
+
+<!-- Profile Views -->
+<h2 align="center" style="animation: fadeIn 1.5s;">👀 Profile Views</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <!-- Dynamic Quote Generator -->
 <h2 align="center" style="animation: slideInRight 1.5s;">💡 Daily Motivation</h2>
