@@ -8,59 +8,30 @@
   <p style="color: white; font-size: 18px; margin-top: 10px; animation: slideIn 2.5s;">Innovation is the key to success, and I strive to innovate every day.</p>
 </div>
 
+<!-- Portfolio Link -->
+<h2 align="center" style="animation: slideInRight 1.5s;">🌐 My Portfolio</h2>
+<p align="center" style="animation: fadeIn 2s;">
+  <a href="https://manishportfolio-green.vercel.app/" target="_blank" style="font-size: 18px; font-weight: bold; padding: 10px 20px; background: #2a5298; color: white; border-radius: 8px; text-decoration: none;">Visit My Portfolio</a>
+</p>
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeInUp 2s;" />
 </p>
 
-<!-- Profile Badges -->
-<div align="center" style="animation: fadeInUp 1.5s ease-out;">
-  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" />
-</div>
+<!-- Additional Elements -->
+<h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">💡 Fun Facts About Me</h2>
+<ul style="max-width: 800px; margin: auto; text-align: left;">
+  <li style="animation: slideInLeft 1.5s;">🔭 I’m currently working on AI and Web 3.0 projects.</li>
+  <li style="animation: slideInLeft 1.7s;">🎮 I love gaming and developing AI-powered game mechanics.</li>
+  <li style="animation: slideInLeft 1.9s;">🚀 My goal is to build scalable and impactful AI solutions.</li>
+  <li style="animation: slideInLeft 2.1s;">📖 I enjoy reading books on technology and innovation.</li>
+</ul>
 
-<!-- About Me -->
-<h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">🚀 About Me</h2>
-<p align="center" style="animation: fadeIn 2s ease-in; max-width: 800px; margin: auto;">
-  I'm a tech enthusiast with a passion for building innovative solutions. Currently exploring the realms of AI, IoT, and Web Development.
-</p>
-
-<!-- Skills Chart -->
-<h2 align="center" style="animation: slideInLeft 1.5s;">📊 My Skills</h2>
-<div align="center" style="animation: fadeInUp 2s;">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','React','Node.js'],datasets:[{data:[40,20,15,15,10]}]}}" alt="Skills Pie Chart" width="500" height="300" />
-</div>
-
-<!-- GitHub Stats Section -->
-<h2 align="center" style="animation: slideInLeft 1.5s;">📊 GitHub Statistics</h2>
-<div align="center" style="animation: fadeInUp 2s;">
-  <p><b>Most Used Languages</b></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <p><b>Contribution Statistics</b></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <p><b>Contribution Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<!-- Tech Stack Section -->
-<h2 align="center" style="animation: slideInRight 1.5s;">🛠️ Tech Stack</h2>
-<div align="center" style="animation: fadeInUp 2s;">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,arduino" alt="Tech Stack" />
-</div>
-
-<!-- Featured Project -->
-<h2 align="center" style="animation: slideInLeft 1.5s;">🏆 Featured Project</h2>
-<div align="center" style="animation: fadeInUp 2s;">
-  <h3>🚗 AI-Driven Object Detection</h3>
-  <a href="https://github.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-">
-    <img src="https://raw.githubusercontent.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-/main/demo.gif" alt="AI Object Detection Demo" width="700" />
-  </a>
-  <p>Advanced object detection system for autonomous vehicles with real-time processing capabilities.</p>
-  <a href="https://github.com/astromanu007/AI-Driven-Object-Detection-for-Autonomous-Cars-">
-    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
-  </a>
+<!-- Dynamic Quote Generator -->
+<h2 align="center" style="animation: slideInRight 1.5s;">💡 Daily Motivation</h2>
+<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;">
+  <h3>"Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer</h3>
 </div>
 
 <!-- Contact Section -->
