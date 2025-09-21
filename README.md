@@ -10,7 +10,9 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.linkedin.com/in/manish-dhatrak-b759171aa/overlay/background-image" alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: fadeIn 2s;" />
+  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png" 
+       alt="Profile Banner" width="100%" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
 <!-- Background Quote Section with Animations -->
