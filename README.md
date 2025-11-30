@@ -464,3 +464,4 @@ Mobile Development   ████████████░░░░░░░�
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=gradient&customColorList=6,11,20&text=EOF&fontSize=40&fontColor=FFFFFF&animation=blinking" width="100%"/>
+</p>
