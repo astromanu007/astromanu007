@@ -1,145 +1,68 @@
-# 👋 Hi, I'm Manish (astromanu007)
+<!-- Header -->
+<h1 align="center" style="animation: fadeIn 1s ease-in;">👋 Hello World! I'm Manish Dhatrak</h1>
+<h3 align="center" style="animation: slideIn 1.2s ease-out;">Passionate Developer | AI & ML Enthusiast | Tech Innovator</h3>
 
-<!--
-  Profile README: polished, holographic, cyberpunk-ready README that uses your provided
-  header, animations, badges and components. Drop this file into the repository named
-  `astromanu007` to make it your GitHub Profile README.
--->
 
-<!-- Holographic Header (from user's reference) -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MANISH%20DHATRAK&fontSize=70&color=0:8B5CF6,50:EC4899,100:EF4444&stroke=FFFFFF&strokeWidth=2&fontAlignY=35&descAlign=60&descAlignY=50&animation=fadeIn&desc=ARCHITECTING%20THE%20FUTURE%20●%20ONE%20LINE%20AT%20A%20TIME" width="100%"/>
-</div>
-
-<!-- Animated Title with Glitch Effect -->
-
+<!-- Animated Portfolio Link -->
+<h2 align="center" style="animation: pulse 1.5s infinite alternate;">🌐 My Portfolio</h2>
+<p align="center" style="animation: fadeIn 2s;">
+  <a href="https://manishportfolio-green.vercel.app/" target="_blank" style="font-size: 18px; font-weight: bold; padding: 12px 24px; background: linear-gradient(45deg, #ff416c, #ff4b2b); color: white; border-radius: 10px; text-decoration: none; transition: transform 0.3s ease-in-out;">🚀 Visit My Portfolio</a>
+</p>
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=🌌+FULL+STACK+ARCHITECT;🤖+AI%2FML+ENGINEER;⚡+INNOVATION+CATALYST" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png" 
+       alt="Profile Banner" width="100%" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</p>
+
+<!-- Background Quote Section with Animations -->
+<div align="center" style="background: url('https://source.unsplash.com/random/800x400/?tech,innovation') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); animation: fadeIn 2s ease-in-out;">
+  <h2 style="color: white; font-size: 24px; font-style: italic; animation: slideInUp 2s;">"The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt</h2>
+  <p style="color: white; font-size: 18px; margin-top: 10px; animation: slideIn 2.5s;">Tech is limitless, and so is my passion for innovation.</p>
 </div>
 
-<!-- Quick intro -->
-
-<p align="center">Hey — I'm <b>Manish</b>, a Full Stack Architect, AI/ML engineer and system designer. I build scalable AI systems, edge IoT solutions, and open-source tools that solve real problems. Scroll down — welcome to my universe.</p>
-
----
-
-## 🚀 At-a-glance
-
-* 🔭 Current: Brain MRI lesion detection & WMH segmentation intern.
-* 🌱 Learning: Edge AI deployment, advanced CV, model optimization.
-* 🤝 Open to: Research collaborations, internships, consulting, and mentorship.
-* 📫 Reach me: `manishdhatrak1121@gmail.com` (or use the contact badges below)
-
----
-
-<!-- Holographic Profile Card (from reference) -->
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding"/>
-      </td>
-      <td valign="top">
-        <h2>⚡ SYSTEM ARCHITECT</h2>
-        <p>
-          <img src="https://img.shields.io/badge/Status-Building_Tomorrow-00D9FF?style=flat-square&logo=statuspage&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Focus-AI_Innovation-FF6AC1?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Mode-Full_Stack-8B5CF6?style=flat-square&logo=stackshare&logoColor=white"/>
-        </p>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B5CF6&width=435&lines=⚡+Transforming+ideas+into+scalable+solutions;🎯+Specializing+in+AI%2FML+%26+Cloud+Architecture;🚀+Open+source+contributor+%26+tech+innovator;💡+Passionate+about+emerging+technologies" alt="About" />
-      </td>
-    </tr>
-  </table>
+<!-- Profile Views & Collaboration -->
+<div align="center" style="animation: fadeInUp 1.5s ease-out;">
+  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=for-the-badge&base=20000" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" />
 </div>
 
----
+<!-- Tech Stack -->
+<h2 align="center" style="animation: fadeIn 1.5s ease-in-out;">🛠️ Tech Stack</h2>
+<div align="center" style="animation: fadeInUp 2s;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-## ✨ What I included (ready-to-use from your reference)
+<!-- GitHub Stats -->
+<h2 align="center" style="animation: slideInLeft 1.5s;">📊 GitHub Statistics</h2>
+<div align="center" style="animation: fadeInUp 2s;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" />
+</div>
 
-* Holographic header, typing SVGs, and neon/cyberpunk dividers.
-* Live GitHub cards and stat widgets (readme-stats, streaks, top-langs).
-* Contribution grid 'snake' animation and activity graph.
-* Project pin placeholders and a Feature/Tech grid with skill icons.
-* Contact badges, visitor counters, WakaTime/Wakatime placeholder, Spotify widget.
-
-> ⚠️ A few notes about third-party images/widgets:
->
-> * Some services (like WakaTime, Spotify, or custom shields) require you to replace `YOUR_SPOTIFY_ID`, `your-repo-name`, or service-specific IDs with your actual IDs.
-> * The contribution grid snake (`/output/github-contribution-grid-snake.svg`) is generated by an action — ensure your repo has the generated `output` directory or point to the hosted URL.
-
----
-
-## 🔧 How to make this your GitHub Profile README
-
-1. Create a repository named exactly: `astromanu007` (case-insensitive).
-2. Add a `README.md` file and paste the entire content of this file into it.
-3. Replace placeholder values:
-
-   * `YOUR_SPOTIFY_ID`, `your-repo-name`, `yourusername`, etc.
-   * Email in contact badges and links to LinkedIn / portfolio.
-4. If you want the contribution 'snake' animation, add the GitHub Action that generates `output/github-contribution-grid-snake.svg` (I can create that action file for you).
-5. Commit and push — GitHub will display this as your profile README.
-
----
-
-## 🔁 Quick snippets you can customise
-
-**GitHub Readme Stats**
-
-```md
-<img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-```
-
-**Top languages**
-
-```md
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight" alt="Top Langs"/>
-```
-
-**Contribution grid snake (generated)**
-
-```md
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="output/github-contribution-grid-snake.svg">
-</picture>
-```
-
----
-
-## 📂 Featured Projects — replace `your-repo-name` with real repos
-
-| Project                                                                            |                                     Short & Sweet | Tech                      |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------: | ------------------------- |
-| [WMH-Segmentation](https://github.com/astromanu007/WMH-Segmentation)               |  Brain lesion segmentation (U-Net, preprocessing) | Python, PyTorch, OpenCV   |
-| [AI-Brand-Safety](https://github.com/astromanu007/AI-Brand-Safety)                 | Image-based news safety classifier with Flask API | Python, Flask, TensorFlow |
-| [Forest-Surveillance-IoT](https://github.com/astromanu007/Forest-Surveillance-IoT) |    Solar ESP32 camera with low-bandwidth alerting | ESP32, HC12, MQTT         |
-
-*(If a project link is missing/incorrect, tell me which repos to replace and I’ll patch the table.)*
-
----
-
-## 🛠 Want me to fully generate / patch these for you?
-
-I can immediately do any of the following (pick one or more):
-
-1. **Auto-fill the project table** using your top 8 repos (I will read your public repos and extract descriptions & languages).
-2. **Create GitHub Action** to generate the contribution-grid-snake SVG and commit it to your profile repo.
-3. **Create per-repo `README.md` templates** for your top 3 repos (detailed setup, training, demo).
-4. **Swap the animation** (Pac-Man / Rocket / Circuit) you previously liked — I can replace the header SVG.
-
----
-
-## 📫 Connect & Support
-
-[![Gmail](https://img.shields.io/badge/Gmail-FF6AC1?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=1e1e2e)](mailto:manishdhatrak1121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=1e1e2e)](https://www.linkedin.com/in/manish-dhatrak-b759171aa)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=1e1e2e)](https://github.com/astromanu007)
-
----
-
-*Made with ❤️ and a dash of neon. If you want the final Markdown file exported, or want me to automatically patch your profile repo (I can produce the `git` commands), say which of the 4 options above you want and I’ll do it now.*
+<!-- Contact -->
+<h2 align="center" style="animation: slideInRight 1.5s;">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="mailto:manishdhatrak1121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-dhatrak-b759171aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/astromanu007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
