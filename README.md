@@ -65,4 +65,4 @@
   <a href="https://github.com/astromanu007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p> IMPORVE THIS ADD ANIMATIONS LIKE THE LINE  PAC MAN AND ALL OTHER ANIMATIONS  AND GIVE ME FULLY BEST CODE WITH ALL FEATURES  GIVE ME FINAL README
+</p>
