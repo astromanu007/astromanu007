@@ -262,59 +262,6 @@ console.log("Let's build something amazing together! ✨");
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">Project Name 1</h3>
-
-<div align="center">  
-<a href="https://github.com/astromanu007/PROJECT_1" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=astromanu007&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1"/>
-</a>
-
-**Tech Stack:** React • Node.js • MongoDB
-
-Full-stack web application with modern UI and robust backend
-
-<a href="https://github.com/astromanu007/PROJECT_1" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-</td>
-
-<td width="50%">
-
-<h3 align="center">Project Name 2</h3>
-
-<div align="center">  
-<a href="https://github.com/astromanu007/PROJECT_2" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=astromanu007&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2"/>
-</a>
-
 **Tech Stack:** Python • TensorFlow • Flask
 
 AI-powered application using machine learning models
