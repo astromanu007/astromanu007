@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+World!+I'm+Manish+Dhatrak;Passionate+Developer;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
-</div>>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+World!+I'm+Manish+Dhatrak;Passionate+Developer;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+</div>
 <p align="center">
     <a href="https://manishportfolio-green.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF4B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
