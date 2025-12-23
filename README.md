@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20World!%20I'm%20Manish&fontSize=40&fontAlign=50&animation=twinkling&fontColor=ffffff" alt="Header" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+World!+I'm+Manish+Dhatrak;Passionate+Developer;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+</div>>
 
 <p align="center">
     <a href="https://manishportfolio-green.vercel.app/" target="_blank">
