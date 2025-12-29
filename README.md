@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fff700&center=true&vCenter=true&width=600&lines=Hi+World!+I'm+Manish+Dhatrak;Passionate+Developer;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+World!+I'm+Manish+Dhatrak;Passionate+Developer;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
 </div>
+
 <p align="center">
     <a href="https://manishportfolio-green.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF4B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
@@ -23,11 +24,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=flat" alt="Open To Collaborate" />
+  <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20views&color=F700FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge" alt="Open To Collaborate" />
 </div>
 
 <br/>
@@ -40,6 +41,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,25 +61,29 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header&text=GitHub%20Stats&fontSize=40&fontAlign=50&animation=twinkling" alt="Stats"/>
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=astromanu007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github.com/astromanu007/astromanu007/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
