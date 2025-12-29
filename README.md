@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+World!+I'm+Manish+Dhatrak;AI+%26+ML+Innovator;Deep+Learning+Specialist;NASA+Scholar+%26+Patent+Holder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+World!+I'm+Manish+Dhatrak;AI+%26+ML+Innovator;Deep+Learning+Specialist;Generative+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,19 +17,15 @@
   <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<h2 align="center">⚡ About Me</h2>
-
-> 👨‍💻 **I am a nationally recognized innovator and AI Researcher.**
-> 
-> * 🏆 **NASA Scholar** (All India Rank 1) & **DeepMind M2L Scholar**.
-> * 🔬 Research Intern at **NTU Singapore**.
-> * 💡 **Patent Innovator:** 20+ Grants in AI & IoT Design.
-> * 🔭 Exploring **Astrophysics x AI**.
+<div align="center">
+  <h3><i>"The only limit to our realization of tomorrow is our doubts of today."</i></h3>
+  <b>– Franklin D. Roosevelt</b>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -76,13 +72,15 @@
 </h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br/>
   <br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true" alt="Manish's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manish's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
