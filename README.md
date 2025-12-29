@@ -68,15 +68,15 @@
 </h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&grade=A+" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=astromanu007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+  <br/>
+  <br/>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 <br/>
 
 <div align="center">
