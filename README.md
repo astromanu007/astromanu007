@@ -22,8 +22,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astromanu007&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/astromanu007?label=Followers&logo=github&style=flat-square&color=7B2CBF" alt="Followers" />
-  <img src="https://img.shields.io/badge/Total%20Stars-39-FF007F?style=flat-square&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Followers-19-7B2CBF?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repositories-41-00F0FF?style=flat-square&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-38-FF007F?style=flat-square&logo=github" alt="Stars" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
