@@ -111,9 +111,9 @@
 <br/>
 
 <!-- RECENT CONTRIBUTION ACTIVITY -->
-<h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header&text=Recent%20Contribution%20Activity&fontSize=32&fontAlign=50&animation=twinkling" alt="Contribution Activity"/>
-</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Recent+Contribution+Activity;%F0%9F%9A%80+2026+Engineering+Milestones" alt="Activity Header" />
+</div>
 
 <div align="center">
 
