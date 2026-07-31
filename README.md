@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Stars-38-FF007F?style=flat-square&logo=github" alt="Stars" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=50&section=header" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- PROFILE BANNER -->
 <p align="center">
@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=50&section=header" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK & SKILLS -->
 <h2 align="center">🛠️ Arsenal & Tech Stack</h2>
@@ -84,7 +84,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=50&section=header" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GITHUB STATS CARDS -->
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -108,7 +108,7 @@
   <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- RECENT CONTRIBUTION ACTIVITY -->
 <div align="center">
@@ -144,7 +144,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=50&section=header" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT & CONTACT -->
 <h2 align="center">📫 Let's Connect!</h2>
