@@ -112,33 +112,33 @@
 
 <!-- RECENT CONTRIBUTION ACTIVITY -->
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=70&section=header&text=🔥%20Recent%20Contribution%20Activity&fontSize=32&fontAlign=50&animation=twinkling" alt="Contribution Activity"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header&text=Recent%20Contribution%20Activity&fontSize=32&fontAlign=50&animation=twinkling" alt="Contribution Activity"/>
 </h2>
 
 <div align="center">
 
-### 🚀 **2026 Commit Velocity & Timeline**
+> 🚀 **2026 Commit Velocity & Timeline**
 
 | Month | Highlight Repositories | Impact & Commits |
 | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/August_2026-FF007F?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/astromanu007-00F0FF?style=flat-square&logo=github&logoColor=black" /> | <img src="https://img.shields.io/badge/1_Commit-00F0FF?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/July_2026-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/astromanu007-7B2CBF?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/profile--images-5A189A?style=flat-square" /> <img src="https://img.shields.io/badge/AI__VIRTUAL__CLOTH-3C096C?style=flat-square" /> | <img src="https://img.shields.io/badge/6_Commits-7B2CBF?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/June_2026-FF0055?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/kalvex-FF007F?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Portfolio-FF5400?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/skyfinder--temp-FF7000?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/56_Commits-FF007F?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/May_2026-FF9E00?style=for-the-badge&logo=github&logoColor=black" /> | <img src="https://img.shields.io/badge/live--vitals--web-FFB703?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/kalvex-FB8500?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/97_Commits-FFBE00?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/April_2026-00F5D4?style=for-the-badge&logo=github&logoColor=black" /> | <img src="https://img.shields.io/badge/kalvex-00BBF9?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Voice__Control__Car-00F5D4?style=flat-square&logo=c%2B%2B&logoColor=black" /> | <img src="https://img.shields.io/badge/46_Commits-00FF88?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/Jan--Mar_2026-4895EF?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/truth--teller-4361EE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/aura--ble--health-3F37C9?style=flat-square&logo=bluetooth&logoColor=white" /> | <img src="https://img.shields.io/badge/40_Commits-0077B5?style=for-the-badge" /> |
+| <b>August 2026</b> | `astromanu007/astromanu007` | <img src="https://img.shields.io/badge/1_Commit-00F0FF?style=flat-square" /> |
+| <b>July 2026</b> | `astromanu007`, `profile-images`, `AI_VIRTUAL_CLOTH` | <img src="https://img.shields.io/badge/6_Commits-7B2CBF?style=flat-square" /> |
+| <b>June 2026</b> | `kalvex`, `Portfolio`, `skyfinder-temp-dir` | <img src="https://img.shields.io/badge/56_Commits-FF007F?style=flat-square" /> |
+| <b>May 2026</b> | `live-vitals-web`, `kalvex` | <img src="https://img.shields.io/badge/97_Commits-FFBE00?style=flat-square" /> |
+| <b>April 2026</b> | `kalvex`, `Voice_Control_Car`, `Kalvex-Tech` | <img src="https://img.shields.io/badge/46_Commits-00FF88?style=flat-square" /> |
+| <b>Jan - Mar 2026</b> | `truth-teller`, `aura-ble-health` | <img src="https://img.shields.io/badge/40_Commits-0077B5?style=flat-square" /> |
 
 <br/>
 
-### 💡 **Key Engineering Milestones**
+> 💡 **Key Engineering Milestones**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Kalvex_Platform-114%2B_Commits-00F0FF?style=for-the-badge&logo=typescript&logoColor=black" />
-  <img src="https://img.shields.io/badge/%F0%9F%A9%BA_Live_Vitals_Web-60_Commits-FF007F?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F_Structural_Health-39_Commits-7B2CBF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kalvex_Platform-114%2B_Commits-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00599C" />
+  <img src="https://img.shields.io/badge/Live_Vitals_Web-60_Commits-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/Structural_Health-39_Commits-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1E415E" />
   <br/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Truth_Teller_AI-27_Commits-FFBE00?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/%F0%9F%90%8D_Computer_Vision_Models-50%2B_Commits-00FF88?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Truth_Teller_AI-27_Commits-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A5C47" />
+  <img src="https://img.shields.io/badge/Computer_Vision_Models-50%2B_Commits-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=321C94" />
 </p>
 
 </div>
