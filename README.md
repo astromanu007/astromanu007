@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+  <img src="[https://raw.githubusercontent.com/astromanu007/astromanu007/main/Banner.png](https://github.com/astromanu007/profile-images/blob/main/github.comastromanu007_page-0001%20(1).jpg)" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <div align="center">
