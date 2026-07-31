@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+and+Machine+Learning+Developer;Computer+Vision+Specialist;Robotics+and+ROS2+Enthusiast;Building+Generative+AI+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+and+Machine+Learning+Developer;Computer+Vision+Specialist;Robotics+and+ROS2+Enthusiast;Building+Generative+AI+Apps" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -36,14 +36,6 @@
 <div align="center">
   <h3><i>"The best way to predict the future is to invent it."</i></h3>
   <b>— Alan Kay</b>
-</div>
-
-<br/>
-
-<!-- GITHUB TROPHIES -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=tokyonight&no-frame=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -93,26 +85,18 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- REALTIME LIVE GITHUB STATS & ANALYTICS -->
+<!-- GITHUB STATS CARDS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- REALTIME ACTIVITY GRAPH -->
-<h3 align="center">⚡ Activity Trends</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astromanu007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
