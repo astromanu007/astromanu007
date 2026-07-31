@@ -111,34 +111,36 @@
 <br/>
 
 <!-- RECENT CONTRIBUTION ACTIVITY -->
-<h2 align="center">🔥 Recent Contribution Activity</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header&text=Recent%20Contribution%20Activity&fontSize=32&fontAlign=50&animation=twinkling" alt="Contribution Activity"/>
+</h2>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🚀 2026 Activity</h3>
-        <ul>
-          <li><b>August 2026:</b> <code>astromanu007/astromanu007</code> (1 commit)</li>
-          <li><b>July 2026:</b> <code>astromanu007/astromanu007</code> (4 commits), <code>profile-images</code>, <code>AI_VIRTUAL_CLOTH_TRY_ONS</code></li>
-          <li><b>June 2026:</b> <code>kalvex</code> (35 commits), <code>Portfolio</code> (9 commits), <code>skyfinder-temp-dir</code> (6 commits)</li>
-          <li><b>May 2026:</b> <code>live-vitals-web</code> (60 commits), <code>kalvex</code> (37 commits)</li>
-          <li><b>April 2026:</b> <code>kalvex</code> (42 commits), <code>Voice_Control_Car</code> (2 commits)</li>
-          <li><b>Jan - Mar 2026:</b> <code>truth-teller</code> (27 commits), <code>aura-ble-health</code> (13 commits)</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">💡 Featured Projects & Milestones</h3>
-        <ul>
-          <li><b>Kalvex:</b> Full-stack platform development (114+ commits)</li>
-          <li><b>Live Vitals Web:</b> Realtime health monitoring system (60 commits)</li>
-          <li><b>Truth Teller:</b> AI-powered analysis tool (27 commits)</li>
-          <li><b>Structural Health Monitoring:</b> Sensor & IoT analytics (39 commits)</li>
-          <li><b>Object Detection & Leaf Disease:</b> Computer Vision models (50+ commits)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+
+> 🚀 **2026 Commit Velocity & Timeline**
+
+| Month | Highlight Repositories | Impact & Commits |
+| :--- | :--- | :---: |
+| <b>August 2026</b> | `astromanu007/astromanu007` | <img src="https://img.shields.io/badge/1_Commit-00F0FF?style=flat-square" /> |
+| <b>July 2026</b> | `astromanu007`, `profile-images`, `AI_VIRTUAL_CLOTH` | <img src="https://img.shields.io/badge/6_Commits-7B2CBF?style=flat-square" /> |
+| <b>June 2026</b> | `kalvex`, `Portfolio`, `skyfinder-temp-dir` | <img src="https://img.shields.io/badge/56_Commits-FF007F?style=flat-square" /> |
+| <b>May 2026</b> | `live-vitals-web`, `kalvex` | <img src="https://img.shields.io/badge/97_Commits-FFBE00?style=flat-square" /> |
+| <b>April 2026</b> | `kalvex`, `Voice_Control_Car`, `Kalvex-Tech` | <img src="https://img.shields.io/badge/46_Commits-00FF88?style=flat-square" /> |
+| <b>Jan - Mar 2026</b> | `truth-teller`, `aura-ble-health` | <img src="https://img.shields.io/badge/40_Commits-0077B5?style=flat-square" /> |
+
+<br/>
+
+> 💡 **Key Engineering Milestones**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kalvex_Platform-114%2B_Commits-00F0FF?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Live_Vitals_Web-60_Commits-FF007F?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structural_Health-39_Commits-7B2CBF?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Truth_Teller_AI-27_Commits-FFBE00?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Vision_Models-50%2B_Commits-00FF88?style=for-the-badge&logo=opencv&logoColor=black" />
+</p>
+
 </div>
 
 <br/>
