@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=header&text=Manish%20Dhatrak&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Robotics&descSize=18&descAlign=50&descAlignY=65" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=🤖+AI+%26+Machine+Learning+Developer;🧠+Computer+Vision+Specialist;⚡+Robotics+%26+ROS2+Enthusiast;✨+Building+Generative+AI+%26+Deep+Learning+Apps" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Manish Dhatrak</h1>
+  <h3>AI / Machine Learning / Computer Vision / Robotics Enthusiast</h3>
 </div>
 
 <br/>
@@ -26,11 +23,11 @@
   <img src="https://img.shields.io/github/stars/astromanu007?label=Total%20Stars&logo=github&style=flat-square&color=FF007F" alt="Stars" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr/>
 
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://github.com/astromanu007/astromanu007/blob/main/git.jpg" alt="Profile Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,240,255,0.3);" />
+  <img src="git.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 <div align="center">
@@ -38,17 +35,7 @@
   <b>— Alan Kay</b>
 </div>
 
-<br/>
-
-<!-- GITHUB TROPHIES -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astromanu007&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr/>
 
 <!-- TECH STACK & SKILLS -->
 <h2 align="center">🛠️ Arsenal & Tech Stack</h2>
@@ -90,29 +77,20 @@
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr/>
 
 <!-- REALTIME LIVE GITHUB STATS & ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=default&hide_border=false" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=default&hide_border=false" height="175" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- REALTIME ACTIVITY GRAPH -->
-<h3 align="center">⚡ Activity Trends</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astromanu007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=default" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -123,8 +101,7 @@
   <img src="https://raw.githubusercontent.com/astromanu007/astromanu007/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr/>
 
 <!-- CONNECT & CONTACT -->
 <h2 align="center">📫 Let's Connect!</h2>
@@ -139,10 +116,4 @@
   <a href="https://manishportfolio-green.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
