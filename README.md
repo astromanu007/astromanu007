@@ -90,14 +90,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astromanu007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromanu007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=astromanu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
