@@ -109,6 +109,39 @@
 </div>
 
 <br/>
+
+<!-- RECENT CONTRIBUTION ACTIVITY -->
+<h2 align="center">🔥 Recent Contribution Activity</h2>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 2026 Activity</h3>
+        <ul>
+          <li><b>August 2026:</b> <code>astromanu007/astromanu007</code> (1 commit)</li>
+          <li><b>July 2026:</b> <code>astromanu007/astromanu007</code> (4 commits), <code>profile-images</code>, <code>AI_VIRTUAL_CLOTH_TRY_ONS</code></li>
+          <li><b>June 2026:</b> <code>kalvex</code> (35 commits), <code>Portfolio</code> (9 commits), <code>skyfinder-temp-dir</code> (6 commits)</li>
+          <li><b>May 2026:</b> <code>live-vitals-web</code> (60 commits), <code>kalvex</code> (37 commits)</li>
+          <li><b>April 2026:</b> <code>kalvex</code> (42 commits), <code>Voice_Control_Car</code> (2 commits)</li>
+          <li><b>Jan - Mar 2026:</b> <code>truth-teller</code> (27 commits), <code>aura-ble-health</code> (13 commits)</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">💡 Featured Projects & Milestones</h3>
+        <ul>
+          <li><b>Kalvex:</b> Full-stack platform development (114+ commits)</li>
+          <li><b>Live Vitals Web:</b> Realtime health monitoring system (60 commits)</li>
+          <li><b>Truth Teller:</b> AI-powered analysis tool (27 commits)</li>
+          <li><b>Structural Health Monitoring:</b> Sensor & IoT analytics (39 commits)</li>
+          <li><b>Object Detection & Leaf Disease:</b> Computer Vision models (50+ commits)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT & CONTACT -->
